@@ -1,0 +1,7 @@
+/vendor/
+/.env
+/.env.*
+!/.env.example
+/auth.json
+/bootstrap/cache/*.php
+/storage/*.key
